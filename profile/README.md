@@ -1,6 +1,4 @@
-![](./img/fonil-500x200.png)
-
-
+![fonil](https://github.com/fonil/.github/blob/main/profile/img/fonil-500x200.png?raw=true&style=centerme)
 
 # About Fonil
 
