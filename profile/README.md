@@ -1,6 +1,4 @@
-<p align="center">
-  ![fonil logo](https://github.com/fonil/.github/blob/main/profile/img/fonil-500x200.png?raw=true)
-</p>
+![fonil](https://github.com/fonil/.github/blob/main/profile/img/fonil-500x200.png?raw=true)
 
 # About Fonil
 
