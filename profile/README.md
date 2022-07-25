@@ -2,9 +2,9 @@
   <img width="500" height="200" src="https://github.com/fonil/.github/blob/main/profile/img/fonil-500x200.png?raw=true">
 </p>
 
-# About Fonil
+# About <fonil>
 
-[Fonil](http://fonil.dev) is a small group of developers who crafts web applications, open-source packages and/or libraries in the PHP ecosystem.
+[fonil](http://fonil.dev) is a small group of developers who crafts web applications, open-source packages and/or libraries in the PHP ecosystem.
 
 We have craft some products:
 
