@@ -1,4 +1,4 @@
-![fonil](https://github.com/fonil/.github/blob/main/profile/img/fonil-500x200.png?raw=true)
+![fonil](https://github.com/fonil/.github/blob/main/profile/img/fonil-500x200.png?raw=true){width="500" height="200" style="display: block; margin: 0 auto"}
 
 # About Fonil
 
