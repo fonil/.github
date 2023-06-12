@@ -8,7 +8,8 @@
 
 We have craft some products:
 
-- [Dockerized PHP](https://github.com/fonil/dockerized-php): a local development environment for PHP entusiasts.
+- [Dockerized PHP CLI](https://github.com/fonil/dockerized-php-cli): a lightweight development environment for PHP CLI entusiasts.
+- [Dockerized PHP](https://github.com/fonil/dockerized-php): a lightweight development environment for PHP entusiasts (includes Nginx).
 - [Coloreeze](https://github.com/fonil/coloreeze): a library to handle color conversions based in PHP.
 
 We use Laravel for most of our projects and love to contribute to Laravel ecosystem. Soon we will publish some Laravel packages we are crafting right now. Stay tunned!
