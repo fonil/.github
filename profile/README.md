@@ -4,7 +4,7 @@
 
 # About <fonil>
 
-[fonil](http://fonil.dev) is a small group of developers who crafts web applications, open-source packages and/or libraries in the PHP ecosystem.
+[fonil](http://fonil.dev) is an annonymous entity which creates web applications, open-source packages and/or libraries in the PHP ecosystem.
 
 We have craft some products:
 
