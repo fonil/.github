@@ -9,6 +9,7 @@
 We have craft some products:
 
 - [Dockerized PHP](https://github.com/fonil/dockerized-php): a lightweight development environment for PHP entusiasts (includes Caddy).
+- [Microservice with Caddy + PHP-FPM](https://github.com/fonil/microservice-caddy-phpfpm): a microservice with PHP-FPM and Caddy with Supervise module running on a single Docker container.
 - [Coloreeze](https://github.com/fonil/coloreeze): a library to handle color conversions based in PHP.
 
 We use Laravel for most of our projects and love to contribute to Laravel ecosystem. Soon we will publish some Laravel packages we are crafting right now. Stay tunned!
