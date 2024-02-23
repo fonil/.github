@@ -8,6 +8,7 @@
 
 We have craft some products:
 
+- [Cache Packer](https://github.com/fonil/cache): a PHP class to optimize cacheable structures and reduce memory consumptions.
 - [Dockerized PHP](https://github.com/fonil/dockerized-php): a lightweight development environment for PHP entusiasts (includes Caddy).
 - [Microservice with Caddy + PHP-FPM](https://github.com/fonil/microservice-caddy-phpfpm): a microservice with PHP-FPM and Caddy with Supervise module running on a single Docker container.
 - [Coloreeze](https://github.com/fonil/coloreeze): a library to handle color conversions based in PHP.
